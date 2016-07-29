@@ -7,9 +7,7 @@ Since then, CodeDay has expanded dramatically:
 * 2014: 58 events in 28 cities
 * 2015: 70 events in 38 cities
 
-# How It's Different
-
-## From Hackathons
+# How It's Different From Hackathons
 
 Despite CodeDay's outward similarity to hackathons, its academic origins lead to large differences in its key goals. **Most fundementally, CodeDay is not about being good. It's about learning something new. **After a CodeDay, we evaluate its success based on a few survey questions:
 
@@ -23,7 +21,7 @@ Much of the culture which has developed around hackathons is incompatible with t
 
 For many students, hackathons are about the absolute skill level, while CodeDay is about the delta skill level.
 
-## From Workshops and Classes
+# How It's Different From Workshops and Classes
 
 Schools and coding schools which teach computer science courses \(and organizations like Code.org which advocate for its universality\) play an important role in making the future generation of technologists, however most students still don't want to learn how to code. This is particularly true in low-income areas, where many of our partner schools report that as few as 7% of students in their CS courses were there by choice \(the rest were placed because it met a requirement\).
 
