@@ -14,9 +14,11 @@ This guide is broken down into topical sections, and describes both the high-lev
 
 You should also bookmark this manual for future reference. The most useful part of this manual will be those specific tasks: they're the best place to start if you don't have a lot of experience in a subject, and work 90% of the time.
 
-## How to Use StudentRND
+## Working With StudentRND
 
-StudentRND is the non-profit which runs CodeDay. CodeDay isn't only an event format, it's a nationally-recognized brand which gets students excited, and which carries high expectations for students. Because we want to protect our trademark and prevent student confusion, you need to be working with StudentRND before you can call your event a "CodeDay".
+StudentRND is the non-profit which runs CodeDay.
+
+CodeDay isn't only an event format, it's a nationally-recognized brand which gets students excited, and which carries high expectations for students. Because we want to exceed their expectations \(and we want to protect our trademark\), you need to be working with StudentRND before you can call your event a "CodeDay".
 
 \(If you're not working with us yet, but you want to be, email organize@srnd.org. Otherwise, you can still use this guide, just choose another name.\)
 

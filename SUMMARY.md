@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [So I'm a CodeDay Organizer. Now what?](chapter1.md)
+* [Goals and History](chapter1.md)
+* [Cadence](cadence.md)
 
