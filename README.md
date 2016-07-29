@@ -18,7 +18,7 @@ You should also bookmark this manual for future reference. The most useful part 
 
 StudentRND is the non-profit which runs CodeDay. CodeDay isn't only an event format, it's a nationally-recognized brand which gets students excited, and which carries high expectations for students. Because we want to protect our trademark and prevent student confusion, you need to be working with StudentRND before you can call your event a "CodeDay".
 
-\(If you're not, and want to be, email organize@srnd.org. Otherwise, you can still use this guide, just choose another name.\)
+\(If you're not working with us yet, but you want to be, email organize@srnd.org. Otherwise, you can still use this guide, just choose another name.\)
 
 Working with us also means you get access to a lot of resources beyond a few hundred kb of markdown on a website! We totally expect you'll have a lot of questions, and at least a few problems, when organizing this event, so we've set up a number of resources for you:
 
@@ -29,3 +29,4 @@ Working with us also means you get access to a lot of resources beyond a few hun
 
 We'll send you information on all of this when the organizing season starts.
 **Don't live in a bubble!** We'll always try to reach you at least every two weeks to check in, but we strongly recommend  take advantage of the other available help: together we can run the most successful event possible.
+
