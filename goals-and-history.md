@@ -1,5 +1,3 @@
-# Goals and History
-
 StudentRND started out as a student hackerspace in Bellevue, Washington, and CodeDay started out as a fun event to attract students to the space, on the premise of creating a video game in 24 hours. The first event, held in 2011, took little inspiration from the developing concept of hackathons; Adam Ryman \(a volunteer\) and Tyler Menezes \(StudentRND's current Executive Director\) were inspired to run the first event by a month-long game making competition they had [completed](https://www.youtube.com/watch?v=DZwYLGz2w4k) in high school.
 
 Since then, CodeDay has expanded dramatically:
