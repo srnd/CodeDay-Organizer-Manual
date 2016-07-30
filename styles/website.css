@@ -8,14 +8,17 @@
 .book-summary { background-color: #fff; border-right: 1px solid #BDBDBD; }
 .pull-right.js-toolbar-action { display: none }
 .book-header .btn { color: #BADBDBD }
-.book-header .btn:hover { color: #484848 }
+.book:not(.color-theme-2) .book-header .btn:hover { color: #484848 }
 
 .book-summary ul.summary > li:first-child, .book-summary ul.summary > li:nth-child(2), .book-summary ul.summary > li:last-child, .book-summary ul.summary > li:nth-last-child(2) { display: none }
 .book-summary ul.summary li > a, .book-summary ul.summary li > span, .book-search input {
     color: #484848; font-family: "Avenir Next", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 .book-summary ul.summary li.active > a { color: #3F97CC; }
-.markdown-section * { color: #484848 }
+
+#book-search-results .search-results .search-results-title { text-transform: capitalize; }
+
+.book:not(.color-theme-2) .markdown-section * { color: #484848 }
 .markdown-section p { margin-bottom: 0.9em }
 .markdown-section li { margin-bottom: 0.25em }
 .markdown-section ol, .markdown-section ul { margin-bottom: 1.2em }
