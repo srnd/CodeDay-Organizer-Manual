@@ -6,11 +6,14 @@
     color: #3F97CC;
 }
 .book-summary { background-color: #fff; border-right: 1px solid #BDBDBD; }
-.book-summary ul.summary li.divider { background: #BDBDBBD }
+.book-summary ul.summary li.divider { background: #BDBDBD }
 #book-search-input { border-bottom: 1px solid #BDBDBD; border-top: 1px solid #BDBDBD; }
 .pull-right.js-toolbar-action { display: none }
 
+.book-summary ul.summary li:first-child, .book-summary ul.summary li:nth-child(2) { display: none }
+.book-summary ul.summary li > a { color: #484848 }
 .book-summary ul.summary li.active > a { color: #3F97CC; }
+.markdown-section * { color: #484848 }
 .markdown-section p { margin-bottom: 0.9em }
 .markdown-section li { margin-bottom: 0.25em }
 .markdown-section ol, .markdown-section ul { margin-bottom: 1.2em }
