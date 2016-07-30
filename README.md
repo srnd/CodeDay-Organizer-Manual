@@ -12,7 +12,7 @@ This guide is broken down into topical sections, and describes both the high-lev
 
 You should also bookmark this manual for future reference. The most useful part of this manual will be those specific tasks: they're the best place to start if you don't have a lot of experience in a subject, and work 90% of the time.
 
-## Working With StudentRND
+# Working With StudentRND
 
 StudentRND is the non-profit which runs CodeDay.
 
