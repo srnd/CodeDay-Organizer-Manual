@@ -14,7 +14,7 @@
   * [Considerations](venue/considerations.md)
 
 * [Sponsorships](sponsorships/README.md)
-  * [Minimums, Goals, and Fund Use](sponsorships/minimums-goals-and-fund-use.md)
+  * [Minimums and Goals](sponsorships/minimums-and-goals.md)
   * [Who to Approach](sponsorships/who-to-approach.md)
   * [Status Tracking](sponsorships/status-tracking.md)
   * [The First Email](sponsorships/the-first-email.md)
