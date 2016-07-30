@@ -1,2 +1,6 @@
-/* CSS for website */
-.book-header h1 { opacity: 1 !important; }
+@import url("https://srnd.org/assets/fonts/avenir-next.css");
+.book-header h1 {
+    opacity: 1 !important;
+    font-family: "Avenir Next", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 700;
+}
