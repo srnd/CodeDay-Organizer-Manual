@@ -6,6 +6,7 @@
     * [Building a Team](building-a-team.md)
     * [Rules and Requirements](rules-and-requirements.md)
     * [Tools](tools.md)
-* Sponsors and Venues
-    * [Finding a Venue](finding-a-venue.md)
+* [Finding a Venue](finding-a-venue.md)
+    * [Where to Look](where-to-look.md)
+    * [Considerations](considerations.md)
 
