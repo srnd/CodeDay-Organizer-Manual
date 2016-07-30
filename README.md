@@ -1,5 +1,3 @@
-# The CodeDay Organizer Manual
-
 Thank you for organizing CodeDay! We're really excited to have you join us!
 
 From the stories we've heard -- from friendships made to career paths changed -- it's clear that CodeDay means a lot to tens of thousands of students nationwide. By becoming an organizer, you're becoming part of the small group which makes the event possible. We're not the only ones who will be thankful you decided to join us!
