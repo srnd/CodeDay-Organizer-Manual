@@ -8,7 +8,7 @@ Over the years we've learned that a lot goes into making a CodeDay successful. W
 
 Okay, so no one ever said "stressful haze looming over one's life," but the point is this: we've collected years and thousands of person-hours into this guide so your CodeDay organizing experience will be easy and the attendees will have a great time.
 
-This guide is broken down into topical sections, and describes both the high-level goals, and the specific tasks needed to achieve them. Because it's important to know what work needs to happen when, the most successful organizers have typically read the full introduction before they start.
+This guide is broken down into topical sections, and describes both the high-level goals, and the specific tasks needed to achieve them. Because it's important to know what work needs to happen when, the most successful organizers have typically read the whole intro and event planning sections before they start.
 
 You should also bookmark this manual for future reference. The most useful part of this manual will be those specific tasks: they're the best place to start if you don't have a lot of experience in a subject, and work 90% of the time.
 
