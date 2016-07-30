@@ -13,4 +13,12 @@
   * [Where to Look](venue/where-to-look.md)
   * [Considerations](venue/considerations.md)
 
+* [Sponsorships](sponsorships/README.md)
 
+* [Promotion](promotion/README.md)
+
+* [Mentors and Judges](mentors-and-judges/README.md)
+
+* [Logistics](logistics/README.md)
+
+* [Post-Event](post-event/README.md)
