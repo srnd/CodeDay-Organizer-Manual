@@ -6,34 +6,35 @@
 * [Event Planning](planning/README.md)
     * [Cadence](planning/cadence.md)
     * [Building a Team](planning/building-a-team.md)
+    * [Budgeting](planning/budgeting.md)
     * [Tools](planning/tools.md)
-    * Budgeting
 * [Finding a Venue](venue/README.md)
     * [Where to Look](venue/where-to-look.md)
     * [Considerations](venue/considerations.md)
 * [Sponsorships](sponsorships/README.md)
-    * Minimums, Goals, and Fund Use
-    * Who to Approach
-    * Status Tracking
-    * The First Email
-    * The Call
-    * Following-up and Closing
+    * [Minimums, Goals, and Fund Use](sponsorships/minimums-goals-and-fund-use.md)
+    * [Who to Approach](sponsorships/who-to-approach.md)
+    * [Status Tracking](sponsorships/status-tracking.md)
+    * [The First Email](sponsorships/the-first-email.md)
+    * [The Call](sponsorships/the-call.md)
+    * [Following-up and Closing](sponsorships/following-up-and-closing.md)
 * [Promotion](promotion/README.md)
-    * Who's In Your Market
-    * Partnerships
-    * Direct Marketing
-    * Online Advertising and More
-    * Discounts, Scholarships, and Travel Reimbursements
+    * [Who's In Your Market](promotion/whos-in-your-market.md)
+    * [Partnerships](promotion/partnerships.md)
+    * [Direct Marketing](promotion/direct-marketing.md)
+    * [Online Advertising and More](promotion/online-advertising-and-more.md)
+    * [Discounts, Scholarships, and Travel Reimbursements](promotion/discounts-scholarships-and-travel-reimbursements.md)
 * [Mentors and Judges](mentors-and-judges/README.md)
-    * Day-of Roles Overview
-    * Finding Mentors and Judges
-    * Mentor Management
+    * [Day-of Roles Overview](mentors-and-judges/day-of-roles-overview.md)
+    * [Finding Mentors and Judges](mentors-and-judges/finding-mentors-and-judges.md)
+    * [Mentor Management](mentors-and-judges/mentor-management.md)
 * [Logistics](logistics/README.md)
-    * Ordering Food and Supplies
-    * Creating the Day-Of Schedule
-    * Venue Setup
+    * [Ordering Food and Supplies](logistics/ordering-food-and-supplies.md)
+    * [Creating the Day-Of Schedule](logistics/creating-the-day-of-schedule.md)
+    * [Venue Setup](logistics/venue-setup.md)
 * [Post-Event](post-event/README.md)
-    * Thank-Yous
-    * Wrap-ups
-    * Closing Out Finances
-    * Updating Documentation
+    * [Thank-Yous](post-event/thank-yous.md)
+    * [Wrap-ups](post-event/wrap-ups.md)
+    * [Closing Out Finances](post-event/closing-out-finances.md)
+    * [Updating Documentation](post-event/updating-documentation.md)
+
