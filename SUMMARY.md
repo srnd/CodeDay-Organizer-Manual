@@ -6,7 +6,6 @@
 * [Event Planning](planning/README.md)
     * [Cadence](planning/cadence.md)
     * [Building a Team](planning/building-a-team.md)
-    * [Budgeting](planning/budgeting.md)
     * [Tools](planning/tools.md)
 * [Finding a Venue](venue/README.md)
     * [Where to Look](venue/where-to-look.md)
