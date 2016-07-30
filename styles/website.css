@@ -10,8 +10,8 @@
 .book-header .btn { color: #BADBDBD }
 .book-header .btn:hover { color: #484848 }
 
-.book-summary ul.summary li:first-child, .book-summary ul.summary li:nth-child(2) { display: none }
-.book-summary ul.summary li > a, book-search-input {
+.book-summary ul.summary li:first-child, .book-summary ul.summary li:nth-child(2), .book-summary ul.summary li:last-child, .book-summary ul.summary li:nth-last-child(2) { display: none }
+.book-summary ul.summary li > a, .book-summary ul.summary li > span, .book-search input {
     color: #484848; font-family: "Avenir Next", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 .book-summary ul.summary li.active > a { color: #3F97CC; }
