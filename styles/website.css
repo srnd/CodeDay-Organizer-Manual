@@ -5,6 +5,7 @@
     font-weight: 700;
     color: #3F97CC;
 }
+.pull-right.js-toolbar-action { display: none }
 .page-inner section h1 {
     font-family: "Avenir Next", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     font-size: 1.3em;
