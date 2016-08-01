@@ -1,3 +1,9 @@
+If you take a look at the most successful CodeDay cities, you'll be a bit confused. Seattle, San Francisco, and New York make sense, sure. But how about Phoenix?
+
+Why is Phoenix on the list? Because they built a team that can lead the event to success.
+
+Building a great team is not usually live-or-die for a CodeDay, but it does make the diference between a CodeDay, and a really great CodeDay. In this section, we'll explore what makes a team great, how to recruit a team, and how to manage a team once you have them.
+
 # Roles
 
 * ## Regional Manager \(RM\)
@@ -36,8 +42,6 @@
 
 
 # Recruiting
-
-
 
 # Managing
 
