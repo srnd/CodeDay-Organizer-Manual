@@ -22,7 +22,7 @@ CodeDay incurs a lot of costs:
 * Curriculum development
 * Global marketing
 
-Because attendees pay only an average of $8 per ticket, many events lose $200+ on food alone. **To cover these expenses, each event needs to raise a minimum of at least $500, or $1,000 for large cities.** To support expansion, however, we ask organizers to aim to raise twice the minimum sponsorship.
+Because attendees pay only an average of $8 per ticket, many events lose $200+ on food alone. **To cover these expenses, each event needs to raise a minimum of at least $500, or $2,000 for large cities.** To support expansion, however, we ask organizers to aim to raise twice the minimum sponsorship.
 
 # Collecting and Spending Sponsorships
 
