@@ -10,6 +10,10 @@ In this chapter, we'll discuss what sort of companies sponsor CodeDay, and what 
 
 For a lot of new organizers, this chapter covers one of the most frightening parts of organizing, asking for money. As you're reading this section, it's important to recognize that CodeDay isn't a scam or a pyramid scheme: it provides great utility to many companies. Our goal isn't to trick sponsors, it's to explain the benefits and get them to make a decision. You'll learn more about the benefits we can provide in upcoming sections.
 
+Don't expect too much
+
+Email-&gt;Phone
+
 # Sponsorship Minimums and Goals
 
 CodeDay incurs a lot of costs:

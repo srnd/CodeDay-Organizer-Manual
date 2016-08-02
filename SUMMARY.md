@@ -12,7 +12,6 @@
     * [Considerations](venue/considerations.md)
 * [Sponsorships](sponsorships/README.md)
     * [Who to Approach](sponsorships/who-to-approach.md)
-    * [Status Tracking](sponsorships/status-tracking.md)
     * [The First Email](sponsorships/the-first-email.md)
     * [The Call](sponsorships/the-call.md)
     * [Following-up and Closing](sponsorships/following-up-and-closing.md)
