@@ -1,4 +1,10 @@
-One extremely high-leverage way to promote CodeDay to a wide audience is through press coverage. Press is usually ineffective at generating signups or leads on its own, but provides strong name recognition, so that when a student, teacher, or sponsor hears about CodeDay several days later, they'll be more likely to engage.
+One extremely high-leverage way to promote CodeDay to a wide audience is through press coverage.
+
+Press is usually ineffective at generating signups or leads on its own, but provides strong name recognition, so that when a student, teacher, or sponsor hears about CodeDay several days later, they'll be more likely to engage.
+
+Reporters can sometimes move very quickly, and sometimes very slowly, so you should start contacting press at the same time you contact other groups. \(In many cases, reporters may be more interested in attending the event and writing about what happened, which won't help as much for this event, but may help more later.\)
+
+![](/assets/1*BO41NBRYuYxDMp3JoYAywA.jpeg)
 
 # Who to Contact
 
@@ -12,7 +18,7 @@ Like with sponsorships and other promotion, you should start by putting together
 
 Make sure you're not just looking for big publications. For example, CodeDay Seattle should certainly reach out to the Seattle Times, but should also reach out to small, suburban newspapers \(like the Redmond Reporter\), and industry publications \(like 425 Business Magazine\). Likewise, your major cable news network should be contacted, but so should your local Univision station.
 
-![](/assets/1*BO41NBRYuYxDMp3JoYAywA.jpeg)
+Once you've got a list of potential press targets, your next step is identifying _who_ you can contact at each organization. Most companies have an online tips form, or a tips@ email, but these are more likely to be full of spam and should be your last resort. Instead, try to find a journalist who's written about something similar at the organization \(technology, education, or business are good places to look\), and contact them directly. Because finding news is literally their job, most media outlets and journalists publish their emails online!
 
 # What Does a Press Release Look Like
 
@@ -40,6 +46,8 @@ You've probably heard of the "five W's," and when we're talking about press rele
 You should also put the most important information up front -- authors usually refer to this style of writing as "inverted pyramid". Start with the most basic, and most important bit of knowledge about what's happening: If the reader only read the very first paragraph, what would you want them to know about the story? Now, what about if they only read the first two paragraphs? And so on.
 
 When you're done, you should be able to cut the press release in between any two paragraphs, removing the lower paragraphs, and the release should make sense.
+
+It's also important to remember that, because someone might stop reading at any time, the earlier paragraphs are more important than the later ones. In particicular, your first paragraph is the most important, and the one you should spend the most time on. When deciding whether to cover an event, it's the paragraph journalists will most consider.
 
 # Sample Press Release
 
