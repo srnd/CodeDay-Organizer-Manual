@@ -12,6 +12,8 @@ Like with sponsorships and other promotion, you should start by putting together
 
 Make sure you're not just looking for big publications. For example, CodeDay Seattle should certainly reach out to the Seattle Times, but should also reach out to small, suburban newspapers \(like the Redmond Reporter\), and industry publications \(like 425 Business Magazine\). Likewise, your major cable news network should be contacted, but so should your local Univision station.
 
+![](/assets/1*BO41NBRYuYxDMp3JoYAywA.jpeg)
+
 # What Does a Press Release Look Like
 
 Press releases aren't a magical incantation. The goal of a press release is simply to convey the gist of what's going on, and the easiest way to do that is by, essentially writing your own article about the news. \(In fact, some outlets will literally copy-and-paste sections of the press release into their article!\)
