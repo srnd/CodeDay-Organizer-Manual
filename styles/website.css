@@ -34,7 +34,7 @@
     margin-top: 1.7em;
 }
 .markdown-section p img {
-    display: block
+    display: block;
     max-width: 55%;
     margin: 0 auto;
 }
