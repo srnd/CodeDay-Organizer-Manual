@@ -19,7 +19,6 @@
     * [Partnerships](promotion/partnerships.md)
     * [Direct Marketing](promotion/direct-marketing.md)
     * [Online Advertising and More](promotion/online-advertising-and-more.md)
-    * [Discounts, Scholarships, and Travel Reimbursements](promotion/discounts-scholarships-and-travel-reimbursements.md)
     * [Press](promotion/press.md)
 * [Mentors and Judges](mentors-and-judges/README.md)
     * [Day-of Roles Overview](mentors-and-judges/day-of-roles-overview.md)
