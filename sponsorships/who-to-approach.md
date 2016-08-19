@@ -27,3 +27,11 @@ As you interact with sponsors, should keep a notes section for each, including r
 * What interests them about CodeDay
 * Anything else you hear which seems relevant for future conversations
 
+# Who Do I Email?
+
+Sometimes this can be the hardest part of raising sponsorship: finding the right person to talk to! If you can't find someone who looks relevant on the company's website, you can use tools like Conspire, LinkedIn, Twitter, and even Facebook to find the right person. You can also try Googling for "\[company name\] Developer Evangelist" or "\[company name\] Community Relations".
+
+You'll generally be looking for someone with a title including either Marketing, Developer Evangelism, or Community Relations. If you absolutely can't find the right person, you can try emailing the CEO or another executive at the company, or anyone you know who works there. They're usually happy to refer you to the right person.
+
+When making contact with a company, you should first see if you know someone who could introduce you to your intended contact \(a "warm intro"\). LinkedIn is great for helping you find these connections. Emailing someone "cold" is an acceptable option if you can't find a warm intro, but you should expect a lower response rate.
+
