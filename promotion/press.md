@@ -45,7 +45,7 @@ Here's a very generic example press release. Rather than copying it and changing
 
 > **Boca Raton Students to Spend 24 Hours Coding**
 > 
-> **\[\*\***\[****BOCA RATON, FL\]****\]**\*\*:** This \[\[February 13th\]\], \[\[over one-hundred\]\] students are expected to attend CodeDay in \[\[Boca Raton\]\], part of the nationwide series of programming events targeted at high school and college students. The event aims to show students the fun side of coding by helping students code their own ideas for apps or games.
+> **\[\[BOCA RATON, FL\]\]:** This \[\[February 13th\]\], \[\[over one-hundred\]\] students are expected to attend CodeDay in \[\[Boca Raton\]\], part of the nationwide series of programming events targeted at high school and college students. The event aims to show students the fun side of coding by helping students code their own ideas for apps or games.
 > 
 > A score of recent efforts have aimed to increase the availability of computer classes in public schools, including a $4B plan unveiled by the White House, but most students still have little interest in learning.
 > 
