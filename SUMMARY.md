@@ -16,7 +16,6 @@
     * [The Call](sponsorships/the-call.md)
     * [Following-up and Closing](sponsorships/following-up-and-closing.md)
 * [Promotion](promotion/README.md)
-    * [Who's In Your Market](promotion/whos-in-your-market.md)
     * [Partnerships](promotion/partnerships.md)
     * [Direct Marketing](promotion/direct-marketing.md)
     * [Online Advertising and More](promotion/online-advertising-and-more.md)
