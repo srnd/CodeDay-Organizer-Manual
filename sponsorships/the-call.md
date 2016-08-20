@@ -39,3 +39,5 @@ If they gave you a "yes," you can introduce them to us for invoicing.
 
 If it's a "maybe", send a "thanks" email after the call, and offer again to provide any additional information which would be helpful. Then, make sure to follow up with them when they said they'd have a decision.
 
+If they said "no," either in the call or after following up, make sure to note why in your pipeline, and decide whether it's likely to stay no, or they might be more willing to sponsor in the future.
+
