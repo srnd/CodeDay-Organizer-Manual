@@ -13,6 +13,7 @@ Because your goal with the email is simply to get them on the phone, your first 
 * **Not too upfront. **You are trying to get them on the phone, not asking for a sponsorship yet!
 
 Here's an example email:
+
 > Hi \[name\],
 > 
 > I'm helping put together a coding event for high school\/college students in \[city\] on \[date\], [CodeDay](https://codeday.org/). I know \[company name\] has a product which is relevant to developers, and I think CodeDay might be a good way to build early buy-in to your technology.
@@ -25,5 +26,5 @@ This is the secret ingredient: you need to follow up when people don't reply to 
 
 Follow-up emails should be short, even moreso than the initial email. "Hey, CodeDay is coming up soon so I just wanted to quickly follow up and see if you're interested in participating this season :\)" is about what you're going for.
 
-Usually, following up every week for the first two weeks, and then after another two weeks is plenty. If someone hasn't responded after a month, it's unlikely they're going to. \(Although it has happened, and has resulted in a sponsorship!\)
+Usually, following up every week for the first two weeks, and then after another two weeks is plenty. If someone hasn't responded after a month, it's unlikely they're going to. \(Although it has happened, and has resulted in a sponsorship!\) You should look for other ways to get in contact with the company \(re-read the Who to Approach section for guidance on finding contacts in companies\).
 
