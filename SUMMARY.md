@@ -14,7 +14,6 @@
     * [Who to Approach](sponsorships/who-to-approach.md)
     * [The First Email](sponsorships/the-first-email.md)
     * [The Call](sponsorships/the-call.md)
-    * [Following-up and Closing](sponsorships/following-up-and-closing.md)
 * [Promotion](promotion/README.md)
     * [Partnerships](promotion/partnerships.md)
     * [Direct Marketing](promotion/direct-marketing.md)
