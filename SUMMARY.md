@@ -10,6 +10,7 @@
 * [Finding a Venue](venue/README.md)
     * [Where to Look](venue/where-to-look.md)
     * [Considerations](venue/considerations.md)
+    * [Contacting](venue/contacting.md)
 * [Sponsorships](sponsorships/README.md)
     * [Who to Approach](sponsorships/who-to-approach.md)
     * [The First Email](sponsorships/the-first-email.md)

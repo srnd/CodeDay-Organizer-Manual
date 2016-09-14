@@ -8,5 +8,3 @@ In most ways, finding a venue isn't dramatically different from finding other sp
 
 In this section, we'll cover many of the steps involved in finding a venue, but you'll have more luck if you read the sponsorships section as well.
 
-You can download a sheet to provide to venues \(only once they've expressed interest, not in the first email!\) [here.](http://assets.srnd.org/codeday/sponsor/venue.pdf)
-
