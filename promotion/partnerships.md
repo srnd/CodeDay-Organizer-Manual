@@ -7,6 +7,7 @@ As you're creating your list, make sure to include:
 * Charter schools
 * Girl Scouts\/Boy Scouts
 * School Clubs
+
   * Robotics Clubs
   * Math Clubs
   * Science Olympiad Club
@@ -15,12 +16,14 @@ As you're creating your list, make sure to include:
   * VEX Robotics
 
 * YMCA
+
 * Boys and Girls Club
 * PTA\/PSTA
 * Libraries \(school and public\)
 * Science Centers
 * Museums
 * Other CS Groups
+
   * Black Girls Code
   * Girls Who Code
   * Coder Dojo
@@ -28,6 +31,7 @@ As you're creating your list, make sure to include:
   * Women in Tech Groups
 
 * University Outreach Departments
+
 * University Computer Science Departments
 * For-Profit Coding Academies and Summer Camps
 * Tech Meetups \(check Meetup.com\)
@@ -37,7 +41,7 @@ As you're creating your list, make sure to include:
 
 You should contact all the organizations on your list to tell them a bit about CodeDay, and ask them about a partnership. For schools and clubs, asking for promotion is likely enough, but for related organizations you can offer some sort of cross-promotion where we list them on our website, have them speak at the kickoff, and send out an email to our participants after the event.
 
-Here are some sample emails you can customize:
+Here are some sample emails you can customize. [\(You can also attach our For Schools Flyer.\)](http://assets.srnd.org/codeday/school.pdf)
 
 ## Sample Email for High School CS Teacher
 
