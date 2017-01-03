@@ -29,8 +29,8 @@ With no food sponsorships, you should aim for the following food breakdown:
 # Recommended Vendors
 
 * Lunch and Dinner
-  * Domino's -- Look in the deals section, you can often find deals which bring the price down to $1-2/person.
-  * Papa John's -- More expensive than Domino's, but you can often find 25-40% off coupons on Google
+  * Domino's -- Look in the deals section, you can often find deals which bring the price down to $1-2/person. Medium will feed 3 people at lunch, 2 people at dinner. Large will feed 4/3 respectively. Mediums are often a better deal.
+  * Papa John's -- More expensive than Domino's, but you can often find 25-40% off coupons on Google.
   * Subway -- You can order catering online, but you can usually get a discount if you call the store. Order sandwich platters from catering, not individual subs.
   * Jimmy John's -- Order sandwich trays, not individual sandwiches.
 * Breakfast
@@ -44,6 +44,34 @@ With no food sponsorships, you should aim for the following food breakdown:
   * Krispy Kreme -- Will usually do discounts for nonprofits.
 * Other Supplies
   * Costco
+  * Instacart -- More expensive than most, avoid if possible
+
+# Sample Food Plan
+
+**  
+**
+
+| **Time** | **Tentative Source** | **Item** | **Cost** |
+| :--- | :--- | :--- | :--- |
+| Throughout | Walmart | 7 Bags of bananas | $11.85 |
+| Throughout | Walmart | \(x12\) 2L Coke \(3x 4-pack\) | $21.87 |
+| Throughout |   | 8 2L Sprite \(2x 4-pack\) | $13.58 |
+| Midnight Snack - Hide in Fridge | Instacart - BJs | \(x2\) 24 12 fl oz IBC Root Beer | $25.38 |
+| Midnight Snack - Hide in Fridge | Target \($9/3 tubs\) | \(x5\) Breyers Vanilla ice cream 1.5qt \($3.89\) | $19.45 |
+| Throughout | Target \(2L\) | 112 Water bottles \(4x 28 Pack\) | $29.16 |
+| Breakfast | Walmart | 3 No Pulp Tropicana OJ jugs | $21.87 |
+| Afternoon | Walmart | Apples | ~ $8 |
+| Afternoon | Walmart | Cuties | ~ $8 |
+| Night | Walmart | Assorted bags of snacks | ~ $18 |
+| Afternoon | Walmart | Chips \(limited quantities\) | ~ $10 |
+| All Times | Walmart | 100 Clear Cups | $9.69 |
+| All Times | Walmart | 115 Dinner Plates | $16.99 |
+| All Times | Walmart | 600 Berkley, Jensen 2 Ply Lunch Napkins | $9.69 |
+| All Times | Walmart | Assorted Utensils | $10 |
+| All Times | Walmart | Trash bags | ~ $8 |
+| All Times | Walmart | Ice? | ~ $5 |
+|   |   | Flowers | Under $10 |
+|   | Walmart | Bottle of Mustard | $2 |
 
 
 
