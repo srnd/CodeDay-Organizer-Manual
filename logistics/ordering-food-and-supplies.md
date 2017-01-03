@@ -48,14 +48,14 @@ With no food sponsorships, you should aim for the following food breakdown:
 
 # Sample Food Plan
 
-**  
+**      
 **
 
 | **Time** | **Tentative Source** | **Item** | **Cost** |
 | :--- | :--- | :--- | :--- |
 | Throughout | Walmart | 7 Bags of bananas | $11.85 |
 | Throughout | Walmart | \(x12\) 2L Coke \(3x 4-pack\) | $21.87 |
-| Throughout |   | 8 2L Sprite \(2x 4-pack\) | $13.58 |
+| Throughout |  | 8 2L Sprite \(2x 4-pack\) | $13.58 |
 | Midnight Snack - Hide in Fridge | Instacart - BJs | \(x2\) 24 12 fl oz IBC Root Beer | $25.38 |
 | Midnight Snack - Hide in Fridge | Target \($9/3 tubs\) | \(x5\) Breyers Vanilla ice cream 1.5qt \($3.89\) | $19.45 |
 | Throughout | Target \(2L\) | 112 Water bottles \(4x 28 Pack\) | $29.16 |
@@ -70,8 +70,14 @@ With no food sponsorships, you should aim for the following food breakdown:
 | All Times | Walmart | Assorted Utensils | $10 |
 | All Times | Walmart | Trash bags | ~ $8 |
 | All Times | Walmart | Ice? | ~ $5 |
-|   |   | Flowers | Under $10 |
-|   | Walmart | Bottle of Mustard | $2 |
+|  |  | Flowers | Under $10 |
+|  | Walmart | Bottle of Mustard | $2 |
+| Before kickoff | Federal Donuts | 6 Hot Fresh Donuts | 0 |
+| Before kickoff | Subway533 Spring Garden \#4 DELIVERY @ 2pm | Subway subs\(ordered footlongs, will be cut in halves\)18 Assorted Meats \(Italian, Ham, BLT, etc?\)8 VeggieASSORTED GIANT SUBSONLINE | Under $170    |
+| Before kickoff | Phila Pretzel Factory pickupSouth 11th READY @ noon | 130 regular pretzels[http://phillypretzelfactory.com/locations/11th-street](http://phillypretzelfactory.com/locations/11th-street) CALL IN THE MORNING | $34Actual: $48  |
+| Sat Afternoon | Pizza | 10 Large Pizzas \(Dinner\) -Enter promo code P1BOGO - $17.591 buffalo chicken, default options1 pepperoni pizza \(choose from topping\) Add to cart, then visit[https://www.papajohns.com/order/dealbuilder?dealId=17147](https://www.papajohns.com/order/dealbuilder?dealId=17147)to order $9.99 each for up to 5 toppings pizzas:3 cheese3 pepperoni1 canadian bacon + pepperoni + sausage1 pineapple + canadian bacon MAKE ORDER SAT MORNING | $105.20 $116.86\(after tax\)\(pending\) |
+| Sun Morning | Federal Donuts Pickup, Center City location READY @ 7:30am | 4 Dozen assorted hot, fresh donuts   MAKE ORDER SUN MORNING | ~ $44 |
+| Sun Morning | Dunkin Donuts | 4x “Box o Joe” from Dunkin DonutsPick up after Federal Donuts pickup | ~ $16 |
 
 
 
