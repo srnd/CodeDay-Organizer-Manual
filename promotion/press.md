@@ -54,20 +54,22 @@ It's also important to remember that, because someone might stop reading at any 
 Here's a very generic example press release. Rather than copying it and changing a few parts, you should use it as an example format, but write your own based on a story unique to your city. \(See the section on telling a story above.\)
 
 > **Boca Raton Students to Spend 24 Hours Coding**
-> 
+>
 > **\[\[BOCA RATON, FL\]\]:** This \[\[February 13th\]\], \[\[over one-hundred\]\] students are expected to attend CodeDay in \[\[Boca Raton\]\], part of the nationwide series of programming events targeted at high school and college students. The event aims to show students the fun side of coding by helping students code their own ideas for apps or games.
-> 
+>
 > A score of recent efforts have aimed to increase the availability of computer classes in public schools, including a $4B plan unveiled by the White House, but most students still have little interest in learning.
-> 
+>
 > "There was so little interest in a lot of our partner schools that some were placing random students in coding classes to fill up seats," said Tyler Menezes, the organization's director. "By showing students, 'hey, you can really bring your own ideas to life with this,' we're been showing students how fun it can really be."
-> 
+>
 > One such idea created by a previous \[\[Boca Raton\]\] team: \[\[a game about an astronaut whose spaceship is taken over by hostile aliens. "For a first time programmer looking to get their feet wet, this is pretty much the only place to do it," Brett Miller, one of the creators of the space game, said of CodeDay.\]\]
-> 
+>
 > Mentors and a brief workshop are provided to beginners to help them with the technical side.
-> 
+>
 > StudentRND, the non-profit which runs CodeDay, will run the event in \[\[24 cities\]\] simultaniously on \[\[February 13\]\], giving students from \[\[Boca Raton\]\] an opportunity to meet students from cities including Boston, Minneapolis, and Seattle. When the event ends on the morning of \[\[February 14\]\], several thousand students will present what they made over the weekend.
-> 
+>
 > \[\[StudentRND hosted two previous CodeDay events in Boca Raton: in the Spring and Fall of 2014. Nationwide, CodeDay has hosted 250 events, and over 15,000 students have participated. The non-profit's expansion into the area was supported by an area technology company: LexisNexis Risk Solutions.\]\]
-> 
+>
 > For more information or tickets visit www.codeday.org.
+
+
 
