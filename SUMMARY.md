@@ -26,6 +26,5 @@
 * [Logistics](logistics/README.md)
     * [Ordering Food and Supplies](logistics/ordering-food-and-supplies.md)
     * [Creating the Day-Of Schedule](logistics/creating-the-day-of-schedule.md)
-    * [Venue Setup](logistics/venue-setup.md)
 * [Post-Event](post-event/README.md)
 
