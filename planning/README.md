@@ -20,6 +20,7 @@ A minority actually have a successful event! So, it's a possibility, but it's mo
 * You need to get lucky on food prices.
 
 So, you can technically try organizing a CodeDay without an event plan, but are you really feeling that lucky?
+
 # What Goes Into an Event Plan?
 
 An event plan is a shared document \(we recommend using Google Sheets for simplicity\) which details everything that has happened, is happening, and needs to happen in order to make the event a success. It isn't static: you'll be adding sections as you go through the organizing process. This section of the manual will help you create a great initial plan:
@@ -40,5 +41,9 @@ Even once something makes it into the plan, it can change. The goal of this plan
 
 # Download a Sample Event Plan
 
-We've created a sample event plan which you can fill out and customize for your event:
+We've created a sample event plan which you can copy, fill out, and customize for your event:
+
+[https://docs.google.com/spreadsheets/d/1D1k1xSeQLkEHRxLPo46oiLZ2l4TgkQ\_tGa1mVZ32wn8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1D1k1xSeQLkEHRxLPo46oiLZ2l4TgkQ_tGa1mVZ32wn8/edit?usp=sharing)
+
+\(This event plan is based on one from Kansas City, and includes some sample data from there.\)
 
