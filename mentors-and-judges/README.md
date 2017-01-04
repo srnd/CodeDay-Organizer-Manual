@@ -2,7 +2,13 @@ Because CodeDay is focused on exploration, having fun, and self-driven learning,
 
 # The Role of Mentors
 
-At CodeDay, mentors help teams 
+At CodeDay, mentors:
+
+* Meet students, learn about students' interests, and talk about their own experiences in the programming industry.
+* Help students solve problems through questioning \(while avoiding giving direct answers\).
+* Occasionally, run workshops.
+
+Mentors are there to help students continue their self-exploration, not to provide direct answers to programming questions, so it's often the case that less-experienced programmers make better mentors than more-experienced ones with less "people" skills. Mentors can also become life-long contacts for students who attend our events.
 
 # The Role of Judges
 
