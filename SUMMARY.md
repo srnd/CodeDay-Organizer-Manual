@@ -20,7 +20,6 @@
     * [Direct Marketing](promotion/direct-marketing.md)
     * [Press](promotion/press.md)
 * [Mentors and Judges](mentors-and-judges/README.md)
-    * [Day-of Roles Overview](mentors-and-judges/day-of-roles-overview.md)
     * [Finding Mentors and Judges](mentors-and-judges/finding-mentors-and-judges.md)
     * [Mentor Management](mentors-and-judges/mentor-management.md)
 * [Logistics](logistics/README.md)
