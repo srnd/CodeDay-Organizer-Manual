@@ -26,4 +26,5 @@
     * [Ordering Food and Supplies](logistics/ordering-food-and-supplies.md)
     * [Creating the Day-Of Schedule](logistics/creating-the-day-of-schedule.md)
 * [Post-Event](post-event/README.md)
+    * [Bans](post-event/bans.md)
 
