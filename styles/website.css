@@ -7,6 +7,7 @@
 }
 .book-summary { background-color: #fff; border-right: 1px solid #BDBDBD; }
 .pull-right.js-toolbar-action { display: none }
+.pull-left.js-toolbar-action { float: right }
 .book-header .btn { color: #BADBDBD }
 .book:not(.color-theme-2) .book-header .btn:hover { color: #484848 }
 
