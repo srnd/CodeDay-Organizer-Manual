@@ -44,7 +44,15 @@ Bans should generally only be processed for [Code of Conduct](https://srnd.org/c
 
 * Age-related
 
+  * Too Young -- 1-2 years, until they should be old enough to reasonably attend
+
+  * Too Old -- Forever
+
+* Recruiter -- Forever
+
+ 
+
 ## Non-Standard Bans
 
-We _can_ ban students for other reasons, but please pre-clear it with StudentRND staff first, since it's important that bans are well-founded and
+We _can_ ban students for other reasons, but please pre-clear it with StudentRND staff first, since it's important that bans are well-founded and applied equally. \(If possible, you should clear this before even removing the attendee.\)
 
