@@ -3,15 +3,27 @@
     opacity: 1 !important;
     font-family: "Avenir Next", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     font-weight: 700;
-    color: #BDBDBD;
+    color: #484848;
     clear: both;
+    font-size: 24.75pt;
     margin: 0 auto;
     max-width: 800px;
     padding: 20px 15px 40px 15px;
+    text-align: left;
 }
+.book-header h1:after {
+    content: ""
+    background-image: url(/styles/wave_short.png);
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    width: 84px;
+    height: 14px;
+    display: block;
+}
+.book.font-size-2 .book-body .page-inner section { font-size: 11pt; }
+.page-wrapper { margin-top: 4rem; }
 .book-summary { background-color: #fff; border-right: 1px solid #BDBDBD; }
 .pull-right.js-toolbar-action { display: none }
-.pull-left.js-toolbar-action { float: right }
 .book-header .btn { color: #BADBDBD }
 .book:not(.color-theme-2) .book-header .btn:hover { color: #484848 }
 
