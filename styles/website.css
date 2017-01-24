@@ -1,4 +1,5 @@
 @import url("https://srnd.org/assets/fonts/avenir-next.css");
+.book-header { height: auto; }
 .book-header h1 {
     opacity: 1 !important;
     font-family: "Avenir Next", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
@@ -12,7 +13,7 @@
     text-align: left;
 }
 .book-header h1::after {
-    content: ""
+    content: "";
     background-image: url(/styles/wave_short.png);
     background-position: 50% 0;
     background-repeat: no-repeat;
@@ -21,7 +22,6 @@
     display: block;
 }
 .book.font-size-2 .book-body .page-inner section { font-size: 11pt; }
-.page-wrapper { margin-top: 4rem; }
 .book-summary { background-color: #fff; border-right: 1px solid #BDBDBD; }
 .pull-right.js-toolbar-action { display: none }
 .book-header .btn { color: #BADBDBD }
