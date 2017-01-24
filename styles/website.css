@@ -46,7 +46,6 @@
 
 #book-search-results .search-results .search-results-title { text-transform: capitalize; }
 
-.book.font-size-2 .book-body .page-inner section { font-size: 1.8rem;}
 .book:not(.color-theme-2) .markdown-section * { color: #484848 }
 .markdown-section p { margin-bottom: 0.9em }
 .markdown-section a { text-decoration: underline !important }
