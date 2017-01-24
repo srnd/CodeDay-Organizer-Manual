@@ -11,7 +11,7 @@
     padding: 20px 15px 40px 15px;
     text-align: left;
 }
-.book-header h1:after {
+.book-header h1::after {
     content: ""
     background-image: url(/styles/wave_short.png);
     background-position: 50% 0;
