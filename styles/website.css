@@ -9,10 +9,19 @@
     font-size: 24.75pt;
     margin: 0 auto;
     max-width: 800px;
-    padding: 20px 15px 40px 15px;
+    padding: 0 15px;
     text-align: left;
 }
-.book-header h1::after {
+.book-header h1:before {
+    content: "";
+    background-image: url(/assets/logo_med.png);
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    width: 84px;
+    height: 14px;
+    display: block;
+}
+.book-header h1:after {
     content: "";
     background-image: url(/assets/wave_short.png);
     background-position: 50% 0;
@@ -20,7 +29,9 @@
     width: 84px;
     height: 14px;
     display: block;
+    margin: 2pt 0 11pt;
 }
+.page-inner { padding-top: 0 }
 .book.font-size-2 .book-body .page-inner section { font-size: 11pt; }
 .book-summary { background-color: #fff; border-right: 1px solid #BDBDBD; }
 .pull-right.js-toolbar-action { display: none }
