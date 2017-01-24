@@ -40,9 +40,9 @@
 
 .book-summary ul.summary > li:first-child, .book-summary ul.summary > li:nth-child(2), .book-summary ul.summary > li:last-child, .book-summary ul.summary > li:nth-last-child(2) { display: none }
 .book-summary ul.summary li > a, .book-summary ul.summary li > span, .book-search input {
-    color: #484848; font-family: "Avenir Next", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    color: #484848; font-family: "Avenir Next", "Helvetica Neue", "Helvetica", "Arial", sans-serif; font-weight: 500; font-size: 11pt;
 }
-.book-summary ul.summary li.active > a { color: #3F97CC; }
+.book-summary ul.summary li.active > a { color: #FF686B; }
 
 #book-search-results .search-results .search-results-title { text-transform: capitalize; }
 
