@@ -4,7 +4,7 @@ With that out of the way, let's get into some requirements you're less likely to
 
 ## The Time and Date are Fixed
 
-CodeDay starts at noon on a Saturday and ends at noon on a Sunday, and it happens in all cities simultaneously. We very rarely make exceptions to this rule, and it's usually to test out a new event format, not just because an organizer wants to test out a new event format.
+CodeDay starts at noon on a Saturday and ends at noon on a Sunday, and it happens in all cities simultaneously. We very rarely make exceptions to this rule, and it's usually to test out a new event format, not just because a venue prefers another weekend.
 
 ## Events Must be Public and Geographic
 
@@ -37,4 +37,6 @@ To run things like the kickoff, workshops, and lead the mentors, you need to go 
 
 * If you want to run things on the day-of, you should let us know early.
 * If you don't want to run things on the day-of, you're off the hook! \(But let us know that, too.\)
+
+
 
