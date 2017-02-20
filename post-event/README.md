@@ -42,10 +42,8 @@ Don't forget to thank the people that made CodeDay happen! It's also a great way
 >
 > What's next?
 >
-> FYI, the next CodeDay is \[date\] if you're interested in helping again. We're going to get started again soon!
->
 > * If you bought anything and need reimbursement, please submit your requests to [Abacus.](https://abacus.com/) If you don't have an account, please email ap@srnd.org from your @srnd.org account for an invite.
-> * Fill out StudentRND's volunteer survey: [https://srnd.wufoo.com/forms/q3lu4qn1vf3maq/](https://srnd.wufoo.com/forms/q3lu4qn1vf3maq/)
+> * Fill out StudentRND's volunteer survey: [https://srnd.wufoo.com/forms/q3lu4qn1vf3maq](https://srnd.wufoo.com/forms/q3lu4qn1vf3maq/)
 > * If you need a letter confirming your volunteer hours, please fill out this form: [https://srnd.wufoo.com/forms/q1dmpz0y0whlzw8/](https://srnd.wufoo.com/forms/q1dmpz0y0whlzw8/)
 >
 > FYI, information for the next CodeDay is already on codeday.org if you're interested in helping again. We're going to get started again soon!
