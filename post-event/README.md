@@ -16,10 +16,10 @@ If you took any pictures at the event, you can have them show up on your city's 
 
 1. [Request to join this Flickr group](https://www.flickr.com/groups/2898458@N20/)
 2. Upload all your pictures to Flickr
-3. Tag all your pictures with your city's webname with no hyphens \(e.g. atlanta or seattleeastside\)
+3. Tag all your pictures with your city's webname
 4. Add all photos to the CodeDay group you joined in Step 1
 
-Optionally, if any photos from your city are tagged "bestof", only those photos will show on the homepage. \(This means if your city has used "bestof" before, you have to use it now, or recent photos will never appear.\) 
+Optionally, if any photos from your city are tagged "bestof", only those photos will show on the homepage. \(This means if your city has used "bestof" before, you have to use it now, or recent photos will never appear.\)
 
 # Thank Yous
 
