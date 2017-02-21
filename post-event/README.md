@@ -10,6 +10,17 @@ If you don't have an Abacus account yet, email ap@srnd.org from your @srnd.org e
 
 Note that Abacus supports both reimbursements, as well as linking receipts to corporate card transactions. If you have a StudentRND card, make sure you don't request reimbursement for corporate transactions.
 
+# Add Pictures
+
+If you took any pictures at the event, you can have them show up on your city's website by doing the following:
+
+1. [Request to join this Flickr group](https://www.flickr.com/groups/2898458@N20/)
+2. Upload all your pictures to Flickr
+3. Tag all your pictures with your city's webname with no hyphens \(e.g. atlanta or seattleeastside\)
+4. Add all photos to the CodeDay group you joined in Step 1
+
+Optionally, if any photos from your city are tagged "bestof", only those photos will show on the homepage. \(This means if your city has used "bestof" before, you have to use it now, or recent photos will never appear.\) 
+
 # Thank Yous
 
 Don't forget to thank the people that made CodeDay happen! It's also a great way to get started on next year's event. Here are some sample emails you can copy-and-paste:

@@ -27,6 +27,6 @@ Working with us also means you get access to a lot of resources beyond a few hun
 * 24\/7 email\/text\/phone support for more urgent requests.
 * Help from other organizers on Slack.
 
-We'll send you information on all of this when the organizing season starts.
+We'll send you information on all of this when the organizing season starts.  
 **Don't live in a bubble!** We'll always try to reach you at least every two weeks to check in, but we strongly recommend  take advantage of the other available help: together we can run the most successful event possible.
 
