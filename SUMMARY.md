@@ -19,6 +19,7 @@
   * [Partnerships](promotion/partnerships.md)
   * [Direct Marketing](promotion/direct-marketing.md)
   * [Press](promotion/press.md)
+  * [Social Media](promotion/social-media.md)
 * [Mentors and Judges](mentors-and-judges/README.md)
   * [Finding Mentors and Judges](mentors-and-judges/finding-mentors-and-judges.md)
   * [Mentor Management](mentors-and-judges/mentor-management.md)
