@@ -3,6 +3,7 @@
 * [Introduction](README.md)
   * [Goals and History](goals-and-history.md)
   * [Rules and Requirements](rules-and-requirements.md)
+  * [FAQ](faq.md)
 * [Event Planning](planning/README.md)
   * [Cadence](planning/cadence.md)
   * [Building a Team](planning/building-a-team.md)
@@ -27,4 +28,3 @@
   * [Ordering Food and Supplies](logistics/ordering-food-and-supplies.md)
   * [Creating the Day-Of Schedule](logistics/creating-the-day-of-schedule.md)
 * [Post-Event](post-event/README.md)
-
