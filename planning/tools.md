@@ -1,12 +1,14 @@
-# [s5.srnd.org](https://s5.srnd.org/)
+# [account.srnd.org](https://account.srnd.org/)
 
-s5 is short for the five s's in "StudentRND Services Single Sign-on System", which is absolutely not a [backronym.](https://en.wikipedia.org/wiki/Backronym) To make your life simple, almost everything at StudentRND will ask you to log in through s5; you'll only need to remember that one username and password, and your permissions will sync across all our tools.
+To make your life simple, almost everything at SRND will ask you to log in with one account, and you'll only need to remember that one username and password. Your permissions will sync across all our tools.
 
-You can register for an s5 account at any time on s5.srnd.org, and you may already have one if you attended a CodeDay, but you'll need to be marked as an organizer before you'll get access to most internal tools. Your StudentRND representative should have provided you with a link to join the Staff group in s5, and asked you for your username to associate you with an event. Make sure that's complete before trying to use any other tools.
+You can register for an account at any time on account.srnd.org, and you may already have one if you attended a CodeDay.
+
+You'll need to be marked as an organizer before you'll get access to most internal tools. Your SRND representative should have asked you for your username.
 
 # [clear.codeday.org](https://clear.codeday.org/)
 
-Named for its function as a clearinghouse for CodeDay-related data, Clear is largely a glorified database frontend with features specifically designed to reduce the amount of busywork involved in managing your event. You can access it at clear.codeday.org once you've provided your s5 username to your StudentRND representative.
+Named for its function as a clearinghouse for CodeDay-related data, Clear is largely a glorified database frontend with features specifically designed to reduce the amount of busywork involved in managing your event. You can access it at clear.codeday.org once you've provided your s5 username to your SRND representative.
 
 Tasks on Clear largely fall into two categories: changing event configuration, and managing attendees. Some example tasks:
 
@@ -23,19 +25,9 @@ Any changes you make to event configuration on Clear will update within a few mi
 
 # [mail.srnd.org](https://mail.srnd.org/)
 
-All volunteers get access to an official StudentRND email address. Specifically, your address will be your s5 username @studentrnd.org. \(You can also receive mail at your s5 username @srnd.org, but you'll need to add it as an alias in settings to send from this address.\)
+All volunteers get access to an official SRND email address. Specifically, your address will be your_username@srnd.org. \(You can also receive mail at your s5 username @srnd.org, but you'll need to add it as an alias in settings to send from this address.\)
 
-# [mentor.codeday.org](https://mentor.codeday.org/)
+# [chat.srnd.org](https://chat.srnd.org/)
 
-Mentor is our mentor scheduling and request system. Approved mentors will be added to the system, and be able to indicate their skills and select a shift \(the system will also show shift popularity, helping maintain a consistent number of mentors throughout the event\).
-
-On the day of the event, students will also be able to request a mentor through the site.
-
-Because mentors may be required to pass a background check, please forward any interested mentors to mentor@codeday.org so we can clear them and help them enroll in the tool directly.
-
-# [studentrnd.slack.com](https://studentrnd.slack.com/)
-
-Depending on who you ask, Slack is either a chat room for organizations, or a place where millenial startup employees waste most of their work week. StudentRND has a Slack, and although it's not required, we've found it to be helpful for peer-to-peer organizer support and getting quick responses from your StudentRND contacts.
-
-Unlike most of these tools, you can't directly sign in with s5 \(hopefully this will change soon\). Instead, you'll need to visit [s5apps.studentrnd.org\/slack](https://s5apps.studentrnd.org/slack), which will automatically send you an email invite to your personal email. Not a great process, we know.
+Depending on who you ask, Slack is either a chat room for organizations, or a place where millenial startup employees waste most of their work week. SRND has a Slack, and although it's not required, we've found it to be helpful for peer-to-peer organizer support and getting quick responses from your SRND contacts.
 
