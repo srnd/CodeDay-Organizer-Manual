@@ -12,14 +12,14 @@ Feel free to do any/all of these, and in particular do not feel bad about asking
 
 We have regular group calls. You should be getting emails from the events@srnd.org mailing list -- if you're not, please ask your SRND contact for help.
 
-Your coach or other srnd contact should set up frequent 1-1s to talk through your event, if you're new, as well.
+Your coach or other SRND contact should set up frequent 1-1s to talk through your event, if you're new, as well.
 
 
 ## How do I open registrations?
 
 1. Go to clear.codeday.org, click on your event, and then click Venue.
 2. Fill out all the fields.
-3. Fill out _ALL_ the fields. This includes capacity (which will automatically ell-out the tickets when reached) and venue contact (for future seasons, or in case something happens to you)
+3. Fill out _ALL_ the fields. This includes capacity (which will automatically sell-out the event when reached) and venue contact (for future seasons, or in case something happens to you)
 4. Go back to the dashboard for your event.
 5. Click the "Registrations" switch, and it will turn green.
 
@@ -35,7 +35,7 @@ You can add other workshops, but please just teach Construct 3 for the beginner 
 
 ## How does the money work?
 
-We collect all ticket revenue and sponsorships, and give you a corporate card to pay for supplies from that account. You never actually need to touch any money directly.
+We collect all ticket revenue and sponsorships, and give you a corporate card to pay for supplies from that account. You should not touch any money directly.
 
 
 ## Why does CodeDay cost money?
