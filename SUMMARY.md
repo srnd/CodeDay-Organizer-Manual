@@ -13,6 +13,7 @@
   * [Considerations](venue/considerations.md)
   * [Contacting](venue/contacting.md)
 * [Sponsorships](sponsorships/README.md)
+  * [What You Can Offer](sponsorships/benefits.md)
   * [Who to Approach](sponsorships/who-to-approach.md)
   * [The First Email](sponsorships/the-first-email.md)
   * [The Call](sponsorships/the-call.md)
@@ -28,3 +29,4 @@
   * [Ordering Food and Supplies](logistics/ordering-food-and-supplies.md)
   * [Creating the Day-Of Schedule](logistics/creating-the-day-of-schedule.md)
 * [Post-Event](post-event/README.md)
+  * [Debrief](post-event/debrief.md)
