@@ -12,21 +12,22 @@ This guide is broken down into topical sections, and describes both the high-lev
 
 You should also bookmark this manual for future reference. The most useful part of this manual will be those specific tasks: they're the best place to start if you don't have a lot of experience in a subject, and work 90% of the time.
 
-# Working With StudentRND
+# Working With SRND
 
-StudentRND is the non-profit which runs CodeDay.
+SRND is the non-profit which runs CodeDay.
 
-CodeDay isn't only an event format, it's a nationally-recognized brand which gets students excited, and which carries high expectations for students. Because we want to exceed their expectations \(and we want to protect our trademark\), you need to be working with StudentRND before you can call your event a "CodeDay".
+CodeDay isn't only an event format, it's a nationally-recognized brand which gets students excited, and which carries high expectations for students. Because we want to exceed their expectations (and we want to protect our trademark), you need to be working with SRND before you can call your event a "CodeDay".
 
-\(If you're not working with us yet, but you want to be, email organize@srnd.org. Otherwise, you can still use this guide, just choose another name.\)
+(If you're not working with us yet, but you want to be, email organize@srnd.org. Otherwise, you can still use this guide, just choose another name.)
+
+# Resources for Organizers
 
 Working with us also means you get access to a lot of resources beyond a few hundred kb of markdown on a website! We totally expect you'll have a lot of questions, and at least a few problems, when organizing this event, so we've set up a number of resources for you:
 
-* Weekly or bi-weekly \(depending on how things are going\) one-on-one calls to troubleshoot specific problems, for the lead organizer.
+* Weekly or bi-weekly (depending on how things are going) one-on-one calls to troubleshoot specific problems, for the lead organizer.
 * Bi-weekly group hangouts to hear thoughts and ideas from other organizers.
-* 24\/7 email\/text\/phone support for more urgent requests.
+* 24/7 email/text/phone support for more urgent requests.
 * Help from other organizers on Slack.
 
 We'll send you information on all of this when the organizing season starts.  
 **Don't live in a bubble!** We'll always try to reach you at least every two weeks to check in, but we strongly recommend  take advantage of the other available help: together we can run the most successful event possible.
-
