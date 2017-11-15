@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+  * [First Steps](getting-started.md)
   * [Goals and History](goals-and-history.md)
   * [Rules and Requirements](rules-and-requirements.md)
   * [FAQ](faq.md)
