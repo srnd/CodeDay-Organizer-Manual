@@ -1,93 +1,29 @@
-All events should create a schedule -- both for your own use \(it's easy to visualize what the event will look like once you've gone through the effort of writing it down\) as well as for your volunteers.
+A detailed schedule is helpful for all events with more than one volunteer, or with more than a few dozen attendees. (So, most CodeDays!) We call this sort of detailed schedule a Run of Show, and its goal is to ensure everyone from managers to volunteers to venue staff are coordinated to deliver a great experience.
 
-# Scheduling Volunteers
+Clear can automatically generate your Run of Show from your schedule, although some organizers still make their own in Google Sheets. Whichever system you use, you'll want to include the following:
 
-Before even starting on the specific event plan, you'll probably find it helpful to create a list of day-of volunteers, and what general roles they serve. Here's an example \(from Victor at CodeDay Philly\):
+* **Contact information** and titles for all managers, staff, and venue contacts.
+* **Show notes,** both pre-event (anything unusual which all staff should know) and at-event (anything unexpected which happened, like a fight).
+* **Schedule:**
+  * Public commitments: workshops, meals, etc in the published schedule attendees see
+  * Venue expectations (such as doors being unlocked or locked)
+  * Setup and cleanup periods (including details about what will be set up when)
+  * Food or supply runs (including shopping lists, order numbers, and who will go)
+  * Activities (like midnight karaoke)
+  * Food/snack setup, attendee staging, etc
+  * A/V setup periods and instructions (kickoff/closing)
+  * Volunteers going on- and off-shift, and sleep shifts
 
-| **Name** | **Role** | **Responsibilities** |
-| :--- | :--- | :--- |
-| Victor | Regional Manager/Evangelist | Trash Cleanup, Event Setup, Registration, Keynote, Serve Food, Workshops, Ping Pong, Midnight Snack, Judges, Venue Follow-Up |
-| Eric | Evangelist | Mentor, Trash Cleanup, Event Setup, Event Setup, Takedown |
-| Bogdan \(CHE\) | Future Evangelist | Mentor, Trash Cleanup, Grocery Run, Lunch Pickup, Logistics, Breakfast Pickup, Takedown |
-| Chaoyi | Volunteer | Mentor, Workshops, Registration, Ping Pong, Midnight Snack, Hype Team |
-| Elliot \(GFS\) | Hackathon Org Volunteer | Mentor, Workshop TA, Ping Pong Tournament |
-| Kyle \(SJ\) | Hackathon Org Volunteer | Registration, Event Setup, Mentor |
-| Jonathan \(CHE\) | Volunteer | Grocery Run, Lunch Pickup, Mentor, Workshops |
-| Salman \(CHE\) | Volunteer | Grocery Run, Lunch Pickup, Mentor |
+If you're using Clear for your Run of Show, it will automatically populate the contact information, show notes (using the Show Notes event page), and public commitments. You'll need to add internal events using the Schedule event page.
 
-# Scheduling the Event
+![](/assets/run.png)
 
-Smaller events can often get by with a rough schedule like the following \(again from Victor\):
+## Volunteer Scheduling
 
-| **Pre Event** | **Kickoff** | **Afternoon** | **Evening** | **Overnight** | **Morning** | **Post Event** |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Grocery Run, Lunch Pickup,  Event Setup, Registration | Keynote, Registration | Serve Lunch, Workshop Instructor, Workshop TA, Dinner Pickup | Serve Dinner, Ping Pong Tournament | Serve Midnight Snack, Hype Team | Breakfast Pickup, Serve Breakfast, Talk to Judges | Takedown, Venue Follow-Up |
+Once you've created a preliminary Run of Event, you should have a good idea about your staffing needs. It's important not to overwork your volunteers (or they won't come back), so you should try to ensure no one works more than 12 hours during the event.
 
-Most organizers of larger events find things easier to manage with the help of a comprehensive schedule, so we recommend that all organizers of events with more than 100 people create one. Your schedule should include plans for setup, activities, workshops, food, and everything from the general CodeDay schedule.
+The easiest way to schedule volunteers is to create a Google Spreadsheet with the times on columns, and volunteer names in rows. Have volunteers highlight their desired shifts by coloring in the cells next to their name.
 
-If you're picking up any supplies or food on the day-of, make sure to include realistic estimates of when people should leave and when they should be back. Be sure to clarify who's going, as well.
+![](/assets/schedule.png)
 
-You can base this on the schedule on the public website, or use the following sample schedule \(created by Kevin from CodeDay Columbia\):
-
-|  |  |  | **Saturday** |
-| :--- | :--- | :--- | :--- |
-| **Time** | Assignee\(s\) | Event Title | Resources |
-| 9:45 AM | Setup Crew | Volunteers arrive |   |
-| 10:00 AM | Setup Crew | Setup |  |
-| 10:00 AM | Setup Crew | Put sign on doors |   |
-| 10:15 AM | Evangelists | Pre-event system check |  |
-| 10:30 AM | Grocery Run People | Grocery Run Arrives |   |
-| 10:55 AM | 2 volunteers \(door openers\) | Station 2 volunteers at both first floor entrances |   |
-| 11:00 AM | RM | Doors open |   |
-| 11:00 AM | Hands-on volunteers | Checkin begins | [https://clear.codeday.org/dayof/checkin](https://clear.codeday.org/tools/checkin) |
-| 11:45 AM | Hands-on volunteers | Gather attendees in Classroom |   |
-| 12:00 PM | RM | Kickoff begins |   |
-| 12:30 PM | RM | Pitching begins |   |
-| 12:45 PM | Hands-on volunteers | Lunch prep begins |   |
-| 1:00 PM | Hands-on volunteers | Lunch |   |
-| 1:25 PM | RM | 5 minutes until time to finalize teams |   |
-| 1:30 PM | RM | Team assignments, names |  |
-| 1:40 PM | RM | Coding begins! |  |
-| 1:50 PM | RM | Announcement of Workshops |   |
-| 1:50 PM | Workshop Instructor | Setup for Workshop |   |
-| 2:00 PM | Workshop Instructor | Workshop 1 \(Intro to Coding\) Begins |   |
-| 2:55 PM | Workshop Instructor | Workshop Ends |   |
-| 2:55 PM | Participants | 5-minute break between workshops |   |
-| 2:55 PM | Workshop Instructor | Setup for Workshop |   |
-| 3:00 PM | Workshop Instructor | Workshop 2 \(Intro to Webdev Using C9\) begins |   |
-| 3:55 PM | Workshop Instructor | Workshop Ends |   |
-| 3:55 PM | Participants | 5-minute break between workshops |   |
-| 3:55 PM | Workshop Instructor | Setup for Workshop |   |
-| 4:00 PM | Workshop Instructor | Workshop 3 \(Using Splunk\) begins |   |
-| 4:55 PM | Workshop Instructor | Workshop Ends |   |
-| 4:55 PM | Participants | 5-minute break between workshops |   |
-| 4:55 PM | Workshop Instructor | Setup for Workshop |   |
-| 6:00 PM | Workshop Instructor | Workshop 4 \(???\) begins |   |
-| 6:45 PM | Hands-on volunteers | Dinner prep |   |
-| 6:50 PM | All volunteers | Announcement of Dinner |   |
-| 6:55 PM | Workshop Instructor | Workshop Ends |   |
-| 7:00 PM | Hands-on volunteer | Pizza Arrives |   |
-| 7:00 PM | Participants | Dinner begins |   |
-| 7:30 PM | Mentors | Patrol \(Ask participants if they need help / have questions\) |  |
-| 9:00 PM | Volunteer | Global Hangout |  |
-| 10:00 PM | Volunteer | Activity |   |
-| 11:45 PM | Hands-on volunteers | Midnight Snack prep begins |   |
-|   |   |   |   |
-|  |  |  | Sunday |
-| Time | Assignee\(s\) | Event Title | Resources |
-| 12:00 AM | Hands-on volunteers | Midnight Snack is served |   |
-| 2:00 AM | Participants | Activity |  |
-| 4:00 AM | RM, hands-on volunteers | Restock snacks |   |
-| 6:45 AM | Hands-on volunteers | Pick Up breakfast |   |
-| 7:00 AM | Participants | Breakfast is served |   |
-| 8:00 AM | Participants | Sign up for presentations begins |   |
-| 9:00 AM | Judges | Pre-judging begins \(walk around one at a time, talk to groups, try applications\) |  |
-| 10:00 AM | Judges, participants | Presentations begin |  |
-| 10:30 AM | Judges | Deliberation begins |  |
-| 10:50 AM | Participants | Pre-awards Clean Up |  |
-| 11:00 AM | Everyone | Awards begin |  |
-| 12:00 PM | RM | Awards end |   |
-| 12:00 PM | Takedown Crew | Takedown |   |
-
-
-
+You should set a lock date for this schedule, and then add staff on-/off-shift events to your Run of Event. You can then send volunteers the relevant training in the [CodeDay guide.](https://codeday.training.srnd.org/)
