@@ -35,3 +35,10 @@ You'll generally be looking for someone with a title including either Marketing,
 
 When making contact with a company, you should first see if you know someone who could introduce you to your intended contact \(a "warm intro"\). LinkedIn is great for helping you find these connections. Emailing someone "cold" is an acceptable option if you can't find a warm intro, but you should expect a lower response rate.
 
+# Banned Companies
+
+Please do not work with the following companies for sponsorship. They are significantly more trouble than they're worth:
+
+* General Assembly
+* Leangap
+* Whitepages

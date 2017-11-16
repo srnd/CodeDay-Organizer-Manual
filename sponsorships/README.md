@@ -38,5 +38,5 @@ Once you've worked out the specifics of a sponsorship and the sponsor has given 
 
 In order to generate the invoice, the final details and amount of the sponsorship must be mentioned somewhere in the email thread you cc us on. If it's not, please mention them in the email in which you cc us.
 
-To spend sponsored money, we'll either send you a StudentRND Amex card, or you can make the purchases and we can reimburse you. Before you can spend any morey, you need to complete your event budget \(described in the Logistics section of this manual\).
+To spend sponsored money, we'll either send you a SRND Amex card, or you can make the purchases and we can reimburse you. Before you can spend any morey, you need to complete your event budget \(described in the Logistics section of this manual\).
 

@@ -26,6 +26,7 @@
 * [Mentors and Judges](mentors-and-judges/README.md)
   * [Finding Mentors and Judges](mentors-and-judges/finding-mentors-and-judges.md)
   * [Mentor Management](mentors-and-judges/mentor-management.md)
+* [Workshops](workshops/README.md)
 * [Logistics](logistics/README.md)
   * [Ordering Food and Supplies](logistics/ordering-food-and-supplies.md)
   * [Creating the Day-Of Schedule](logistics/creating-the-day-of-schedule.md)
