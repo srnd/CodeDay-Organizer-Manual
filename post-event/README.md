@@ -14,13 +14,20 @@ Note that Abacus supports both reimbursements, as well as linking receipts to co
 
 If you took any pictures at the event, you can have them show up on your city's website by doing the following:
 
-1. [Request to join this Flickr group](https://www.flickr.com/groups/2898458@N20/)
-2. Upload all your pictures to Flickr
-3. Tag all your pictures with your city's webname
-4. Add all photos to the CodeDay group you joined in Step 1
-
-Optionally, if any photos from your city are tagged "bestof", only those photos will show on the homepage. \(This means if your city has used "bestof" before, you have to use it now, or recent photos will never appear.\)
+1. Go to [showcase.srnd.org.](https://showcase.srnd.org/)
+2. Click on "Login" at the bottom-right.
+3. Click on your event in the "My Events" section.
+4. Click "Photos".
+5. Upload your photos.
 
 # Thank Yous
 
 We will automatically send general thank-yous and requests for feedback to your venue and sponsors if they're in Clear, however you may want to send a personal note.
+
+# WrapUp Post
+
+![](/assets/ideas.png)
+
+Showcase will automatically generate a wrapup post you can send to sponsors and parents which includes all the photos and teams in your event. Just visit your event page, and the "Wrapup" section will be displayed automatically after the event.
+
+Optionally, you can add some text at the top to comment on the cool things students made and thank the sponsors. As usual, just log in.
