@@ -46,10 +46,36 @@ With no food sponsorships, you should aim for the following food breakdown:
   * Costco
   * Instacart -- More expensive than most, avoid if possible
 
-# Sample Food Plan
+# Other Supplies
 
-**      
-**
+We will mail you most of the essential CodeDay supplies in one of two shipments:
+
+- **Per-Event Supplies:** each event, you'll get a shipment consisting mostly of swag to distribute.
+- **Ongoing Event Supplies:** if this is your first event, you'll get a box containing judging sheets, awards, pens, nametags, etc. (Larger events will also receive a barcode reader.) We send you enough to last ~2yrs, but _it's your responsibility to request more after you're out!_
+
+If you are out of a key event supply (like nametags), and it's too late to request a restock, you can buy more and expense them with your food. If you're missing signs or other printed material, let your SRND representative know and we'll send you PDFs.
+
+## Quiet Activity
+
+We also recommend you buy a board game, or other quiet activity for attendees who need to de-stress. You'll only need to buy this once: you can keep it with your event supplies between seasons.
+
+Here are some picks that have worked well in the past:
+
+- Set
+- Settlers of Catan
+- Kingdomino
+- Splendor
+- Boss Moster: The Dungeon Building Card Game
+- Jaipur
+- 7 Wonders Duel
+
+Alternatively, you can bring one of your own board games. If it's damaged, we will buy you a replacement.
+
+# Confirming
+
+Once your food is ordered, you might want to confirm with the restaurant a day or two in advance. Mistakes sometimes happen, and no food means unhappy attendees.
+
+# Sample Food Plan
 
 | **Time** | **Tentative Source** | **Item** | **Cost** |
 | :--- | :--- | :--- | :--- |
@@ -78,6 +104,3 @@ With no food sponsorships, you should aim for the following food breakdown:
 | Sat Afternoon | Pizza | 10 Large Pizzas \(Dinner\) -Enter promo code P1BOGO - $17.591 buffalo chicken, default options1 pepperoni pizza \(choose from topping\) Add to cart, then visit[https://www.papajohns.com/order/dealbuilder?dealId=17147](https://www.papajohns.com/order/dealbuilder?dealId=17147)to order $9.99 each for up to 5 toppings pizzas:3 cheese3 pepperoni1 canadian bacon + pepperoni + sausage1 pineapple + canadian bacon MAKE ORDER SAT MORNING | $105.20 $116.86\(after tax\)\(pending\) |
 | Sun Morning | Federal Donuts Pickup, Center City location READY @ 7:30am | 4 Dozen assorted hot, fresh donuts   MAKE ORDER SUN MORNING | ~ $44 |
 | Sun Morning | Dunkin Donuts | 4x “Box o Joe” from Dunkin DonutsPick up after Federal Donuts pickup | ~ $16 |
-
-
-
