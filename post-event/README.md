@@ -24,9 +24,9 @@ If you took any pictures at the event, you can have them show up on your city's 
 
 We will automatically send general thank-yous and requests for feedback to your venue and sponsors if they're in Clear, however you may want to send a personal note.
 
-# WrapUp Post
+# Wrapup Post
 
-![](/assets/ideas.png)
+![](/assets/wrapup.png)
 
 Showcase will automatically generate a wrapup post you can send to sponsors and parents which includes all the photos and teams in your event. Just visit your event page, and the "Wrapup" section will be displayed automatically after the event.
 
