@@ -16,7 +16,7 @@ While almost no CodeDays have prizes, wanting to provide more value to students 
 1. **Prizes should not seem obviously valuable.** People mostly address value monetarily, so stay away from large gift cards and expensive gadgets.
 2. **Prizes should encourage CodeDay principles.** A Raspberry Pi encourages a lot more creativity and effort than an Apple Watch.
 
-## Prize Logistics
+# Prize Logistics
 
 One problem with prizes is figuring out how many you'll need: team sizes can technically range from 1-6 (and in practice sometimes the judges allow larger).
 
