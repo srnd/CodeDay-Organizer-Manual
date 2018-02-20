@@ -15,6 +15,7 @@
   * [Contacting](venue/contacting.md)
 * [Sponsorships](sponsorships/README.md)
   * [What You Can Offer](sponsorships/benefits.md)
+  * [(Not) Finding Prizes](sponsorships/prizes.md)
   * [Who to Approach](sponsorships/who-to-approach.md)
   * [The First Email](sponsorships/the-first-email.md)
   * [The Call](sponsorships/the-call.md)
