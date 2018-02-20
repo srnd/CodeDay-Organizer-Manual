@@ -16,6 +16,18 @@ While almost no CodeDays have prizes, wanting to provide more value to students 
 1. **Prizes should not seem obviously valuable.** People mostly address value monetarily, so stay away from large gift cards and expensive gadgets.
 2. **Prizes should encourage CodeDay principles.** A Raspberry Pi encourages a lot more creativity and effort than an Apple Watch.
 
+## Prize Logistics
+
+One problem with prizes is figuring out how many you'll need: team sizes can technically range from 1-6 (and in practice sometimes the judges allow larger).
+
+The easiest solution is to announce, but not purchase, the prizes in advance of judging. By collecting a shipping address, prizes can be mailed to participants at the conclusion of the event.
+
+If you'd like a prize to display, you can purchase a single one, and mail the rest to team members.
+
+Alternatively, you can assign prizes for an individual-limited special award, such as MVP (bonus: helps the prize encourage CodeDay principles). As a downside, giving a prize for non-MVP awards discourages collaboration.
+
+For sponsor prizes, sponsors can be advised to budget for a maximum number of prizes, in which case the team size restrictions must be strictly enforced.
+
 # Sponsor Prizes
 
 Sponsors sometimes want to offer prizes, particularly to those who use their API or service. This is strongly discouraged because we are not in the business of bribing students to inflate usage metrics.
