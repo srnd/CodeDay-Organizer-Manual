@@ -5,7 +5,7 @@ We recommend you do not actively seek to recruit mentors; there are usually a su
 When someone expresses interest in becoming a mentor, you should evaluate their:
 
 * **Maturity:** In our experience, many younger mentors behave unprofessionally at events.
-* **Experience Level: **Mentors should be generall experienced enough to solve problems in languages or frameworks they haven't used.
+* **Experience Level: **Mentors should be generally experienced enough to solve problems in languages or frameworks they haven't used.
 * **Ability to Teach:** Mentors are expected to teach students, which means asking questions and helping students understand key concepts, not just directly answer questions.
 * **Tech-Curmudgeon Tendencies:** Mentors getting into arguments with students about which programming language is best is neither friendly nor supportive.
 
